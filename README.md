@@ -7,7 +7,7 @@ Elaborating on these keywords, CatColab aims to be:
 
 - **Formal**: Models created in the system, be they qualitative or quantitative,
   are well-defined mathematical objects that can be critiqued with clarity.
-- **Interoperable**: Models, and the logics in which they are expressed, can be
+- **Interoperable**: Modelsasdfasdfasdasdff, and the logics in which they are expressed, can be
   flexibly interoperated with each other, without privileging any viewpoint as
   primary.
 - **Conceptual**: Each domain-specific logic in the system is well adapted to
